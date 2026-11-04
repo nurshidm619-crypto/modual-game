@@ -1,0 +1,6 @@
+{
+  "name": "MY ARCADE – 10 Instant Browser Mini-Games",
+  "description": "Play 10 addicting mini-games in your browser: Fruit Slice, Bubble Pop, Brick Breaker, Memory Match, Space Dodge, and more with high scores, sound effects, and instant play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
